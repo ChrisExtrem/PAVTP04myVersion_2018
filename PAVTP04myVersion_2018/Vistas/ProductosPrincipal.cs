@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PAVTP04myVersion_2018
+namespace PAVTP04myVersion_2018.Vistas
 {
-    public partial class Form1 : Form
+    public partial class ProductosPrincipal : Form
     {
-        public Form1()
+
+        public ProductosPrincipal()
         {
             InitializeComponent();
         }
